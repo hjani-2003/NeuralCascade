@@ -1,5 +1,5 @@
 # NeuralCascade
-"blame chatgpt for the repo's title" ~ ChatGPT XD
+"blame chatgpt for the repo's title" ~ ChatGPT
 
 # BTech Engineering Project Repository
 
