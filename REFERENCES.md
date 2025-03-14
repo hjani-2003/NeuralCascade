@@ -58,3 +58,36 @@ This project was developed by learning from various sources. Below are key refer
 
 - **Hugging Face** - "Mamba Model Documentation."  
   *Available:* [https://huggingface.co/docs/transformers/en/model_doc/mamba](https://huggingface.co/docs/transformers/en/model_doc/mamba)
+
+- **S. Tripathi** - "Demystifying the CLIP Model - Sonam Tripathi - Medium," Medium, Sep. 23, 2023.
+  *Available*: [https://tripathisonam.medium.com/demystifying-the-clip-model-c2c6c0999ef1](https://tripathisonam.medium.com/  demystifying-the-clip-model-c2c6c0999ef1)
+
+- **Szymon Palucha** - "Understanding OpenAI’s CLIP model - Szymon Palucha - Medium," Medium, Feb. 24, 2024.
+  *Available*: [https://medium.com/@paluchasz/understanding-openais-clip-model-6b52bade3fa3](https://medium.com/@paluchasz/  understanding-openais-clip-model-6b52bade3fa3)
+
+- **A. Khan** - "A Beginner’s Guide to Deep Learning with MNIST Dataset," Medium, Apr. 16, 2024.
+  *Available*: [https://medium.com/@azimkhan8018/a-beginners-guide-to-deep-learning-with-mnist-dataset-0894f7183344](https://medium.  com/@azimkhan8018/a-beginners-guide-to-deep-learning-with-mnist-dataset-0894f7183344)
+
+- **A. Karpathy** - "Yes you should understand backprop," Medium, Dec. 19, 2016.
+  *Available*: [https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b](https://karpathy.medium.com/  yes-you-should-understand-backprop-e2f06eab496b)
+
+- **Hugging Face** - "Introduction to State Space Models (SSM)."
+  *Available*: [https://huggingface.co/blog/lbourdois/get-on-the-ssm-train](https://huggingface.co/blog/lbourdois/  get-on-the-ssm-train)
+
+- **OpenAI** - "ChatGPT," Openai.com, Nov. 30, 2022.  
+  *Available:* [https://openai.com/index/chatgpt](https://openai.com/index/chatgpt)
+
+- **OpenAI** - "CLIP: Connecting text and images," Openai.com, 2021.  
+  *Available:* [https://openai.com/index/clip](https://openai.com/index/clip)
+
+- **S. Poudel** - "Recurrent Neural Network (RNN) Architecture Explained," Medium, Aug. 28, 2023.  
+  *Available:* [https://medium.com/@poudelsushmita878/recurrent-neural-network-rnn-architecture-explained-1d69560541ef](https://medium.com/@poudelsushmita878/recurrent-neural-network-rnn-architecture-explained-1d69560541ef)
+
+- **A. Karpathy** - "The Unreasonable Effectiveness of Recurrent Neural Networks," karpathy.github.io, May 21, 2015.  
+  *Available:* [https://karpathy.github.io/2015/05/21/rnn-effectiveness/](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+- **A. Karpathy** - "A Recipe for Training Neural Networks," karpathy.github.io.  
+  *Available:* [https://karpathy.github.io/2019/04/25/recipe/](https://karpathy.github.io/2019/04/25/recipe/)
+
+- **Oxford Emory Math** - "Bessel’s Correction."  
+  *Available:* [https://math.oxford.emory.edu/site/math117/besselCorrection/](https://math.oxford.emory.edu/site/math117/besselCorrection/)
