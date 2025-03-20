@@ -25,7 +25,7 @@ The repository is divided into multiple sections that encapsulate different stag
 
 ## Fun Outputs :D
 
-To add a creative twist, I have included a **Fun Outputs** folder to showcase interesting generative results!
+I have included a **Fun Outputs** folder to showcase interesting generative results!
 
 ### 1. **Human-like Name Generation**
 
@@ -43,7 +43,6 @@ Pretty cool huh!
 
 ## Future Work
 
-- RNNs and LSTMs Implementation
-- State-space models and MAMBA research.
-- CLIP model exploration.
-- Fine-tuning models on more diverse datasets.
+- State-space models and MAMBA.
+- CLIP model.
+- Fine-tuning models on datasets.
