@@ -17,7 +17,11 @@ The repository is divided into multiple sections that encapsulate different stag
 - Multi-Layer Perceptrons (MLPs).
 - Hierarchical deep learning architectures such as dilated causal convolutional networks (inspired by WaveNet).
 
-### 2. **Advanced Architectures**
+### 2. **Recurrent Architectures**
+- Implementation of Recurrent Neural Networks (RNNs) for sequence modeling.
+- Long Short-Term Memory (LSTM) networks for capturing long-range dependencies.
+
+### 3. **Advanced Architectures**
 
 - Transformer implementation inspired by *Attention Is All You Need*.
 - Multi-headed self-attention mechanisms.
