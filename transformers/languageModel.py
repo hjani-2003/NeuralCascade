@@ -2,6 +2,7 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 
+# adapted from https://github.com/karpathy/ng-video-lecture
 
 # -------------------------------
 # hyperparameters
